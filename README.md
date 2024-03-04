@@ -4,3 +4,5 @@ Curiosity: Research is about asking good questions, challenging assumptions, and
 Reliability: Like anything else in life, research projects have deadlines that need to be met, and clear communication is important (especially if you cannot meet a deadline).
 
 - **CMU Deepak Pathak**: Our group studies Artificial Intelligence at the intersection of Computer Vision, Machine Learning & Robotics. Our ultimate goal is to build agents with a human-like ability to generalize in real and diverse environments. We believe understanding how to **continually develop knowledge and acquire new skills from just raw sensory data** will play a vital role in achieving this goal. Our group draws **inspiration from psychology** to build practical systems at the interface of vision, learning and robotics that can learn using data as its own supervision. If you would like to join our group, please fill this form and then send me a short email note without any documents.
+
+- **Georgia Tech Xu Danfei**: https://faculty.cc.gatech.edu/~danfei/
